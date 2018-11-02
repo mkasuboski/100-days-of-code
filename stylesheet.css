@@ -1,0 +1,45 @@
+h1{
+	font-family:"arial black";
+	background-color:gray;
+}
+
+}
+.blue{
+	background-color:blue;
+	color:yellow;
+}
+p{
+	font-family:"arial";
+	font-size:16px;
+}
+p.small{
+	font-size: small;
+}
+p.medium{
+	font-size: medium;
+}
+p.large{
+	font-size: large;
+}
+p.xlarge{
+	font-size: x-large;
+}
+p.normal{
+	color:red;
+	font-variant:normal;
+}
+p.smallcaps{
+	color:green;
+	font-variant:small-caps;
+}
+p.left{
+	text-align:left;
+}
+p.center{
+	text-align:center;
+	text-decoration:underline;
+}
+p.right{
+	text-align:right;
+}
+
