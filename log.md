@@ -9,7 +9,7 @@
 
 ### Day 1 November 2nd, 2018
 
-**Today's Progress**: I am re-learning CSS. I don't know how anyone actually learns anything in college. everything goes by so quickly, especially when you are going to college full time and working full time. I did not go to college for web design, so I had very little concentration on HTML5 and CSS. I learned what I had to, but I graduated feeling much like the saying goes "jack of all trades, master of none..."
+**Today's Progress**: I am re-learning CSS. I don't know how anyone actually learns anything in college. everything goes by so quickly, especially when you are going to college full time and working full time. I did not go to college for web design, so I had very little concentration on HTML5 and CSS. I learned what I had to, but I graduated feeling much like the saying goes "jack of all trades, master of none..." I spent much of my time coding today on an external style sheet with css.
 
 <!---
 
