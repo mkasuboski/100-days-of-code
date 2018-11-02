@@ -1,11 +1,16 @@
 # 100 Days Of Code - Log
 
 ### Back Story
-**Where I come From**: I have a Bachelor's Degree in Software Development with an emphasis on Mobile Applications. The mobile applications part is all Android for my experience, but I have worked with C#, C++, JAVA, javascript and SQL, as well as HTML and CSS in school. I have dabbled a little bit in Swift 4, but I have not written any applications with it. I am looking to focus on one language for starters in order to get better. While I am doing this, I am also contemplating getting an A+ Certification, but I don't know if it would be worth it.
+**Where I come From**: I have a Bachelor's Degree in Software Development with an emphasis on Mobile Applications. The mobile applications part is all Android for my experience, but I have worked with C#, C++, JAVA, javascript and SQL, as well as HTML and CSS in school. I have dabbled a little bit in Swift 4, but I have not written any applications with it. I am looking to focus on one language for starters in order to get better. I decided to start with a refresher on web development so I can actually design a website that will help me showcase my skills for potential employers or customers. While I am doing this, I am also contemplating getting an A+ Certification, but I don't know if it would be worth it.
 
 ### Day 0 November 1st, 2018
 
-**Today's Progress**: I have used my 1 hour plus today learning more about github and learning how to format the readme file for the log. I have decided to refresh my HTML skills for starters. I will add the file to my repository later today or tomorrow.
+**Today's Progress**: I have used my 1 hour plus today learning more about github and learning how to format the readme file for the log. I have decided to refresh my HTML skills for starters. The files are:formatting.html and About ME.html.
+
+### Day 1 November 2nd, 2018
+
+**Today's Progress**: I am re-learning CSS. I don't know how anyone actually learns anything in college. everything goes by so quickly, especially when you are going to college full time and working full time. I did not go to college for web design, so I had very little concentration on HTML5 and CSS. I learned what I had to, but I graduated feeling much like the saying goes "jack of all trades, master of none..."
+
 <!---
 
 ### Day 0: February 30, 2016 (Example 1)
