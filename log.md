@@ -13,6 +13,8 @@
 ### Day 2 November 3rd, 2018
 
 **Today's Progress**: Continuing my journey with CSS. I have the structure figured out. It is fairly easy to see what the code is doing to the page, but I am still learning/needing to learn. I see colors and shapes and gradients showing real promise toward a great end product but it still looks very rough. I am really enjoying this, but at times it can be a struggle. I spent way more than an hour today...
+### Day 0 ***RESTART* April 15th 2020 
+It's a new day. Got busy with life and a new job and forgot what was really important! I want to re-commit to the 100 day challenge. I started the free code camp today by going through the entire intro to html.
 <!---
 
 ### Day 0: February 30, 2016 (Example 1)
