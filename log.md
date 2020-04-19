@@ -26,3 +26,7 @@ It's a new day. Got busy with life and a new job and forgot what was really impo
 ### Day 3 April 18th 2020
 
 **Today's Progress**: I'll be honest, not much was learned today except for the fact that sometimes a married man must defer to his wife. I spent a few minutes and started applied design learning, but the rest will have to wait until tomorrow.
+
+### Day 4 April 19th 2020
+
+**Today's Progress**: Continued with applied design in CSS. Learning much.. Wondering how some people retain all of this. I am starting to think that it will be necessary for me to build a website sometime soon so I can try to apply this knowledge and retain it.
