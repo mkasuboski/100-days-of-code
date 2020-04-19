@@ -22,3 +22,7 @@ It's a new day. Got busy with life and a new job and forgot what was really impo
 ### Day 2 April 17th 2020
 
 **Today's Progress**:I spent about two hours and finished the intro to CSS on freecodecamp. I think I finally understand CSS!
+
+### Day 3 April 18th 2020
+
+**Today's Progress**: I'll be honest, not much was learned today except for the fact that sometimes a married man must defer to his wife. I spent a few minutes and started applied design learning, but the rest will have to wait until tomorrow.
