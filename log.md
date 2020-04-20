@@ -30,3 +30,7 @@ It's a new day. Got busy with life and a new job and forgot what was really impo
 ### Day 4 April 19th 2020
 
 **Today's Progress**: Continued with applied design in CSS. Learning much.. Wondering how some people retain all of this. I am starting to think that it will be necessary for me to build a website sometime soon so I can try to apply this knowledge and retain it.
+
+### Day 5 April 20th 2020
+
+**Today's Progress**: Finished applied Visual design today. Definitely need to start to build even a mock website. I am gaining too much information to just leave this stuff here, and I will definitely need to set something up that at least partially saves the number of commands that I may not remember otherwise, and applies them to a page that I can reference.
