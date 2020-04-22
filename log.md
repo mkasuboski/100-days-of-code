@@ -34,3 +34,11 @@ It's a new day. Got busy with life and a new job and forgot what was really impo
 ### Day 5 April 20th 2020
 
 **Today's Progress**: Finished applied Visual design today. Definitely need to start to build even a mock website. I am gaining too much information to just leave this stuff here, and I will definitely need to set something up that at least partially saves the number of commands that I may not remember otherwise, and applies them to a page that I can reference.
+
+### Day 6 April 21st 2020
+
+**Today's Progress** Started learning applied accessibility on freecodecamp learned how to embed an audio player on a web page.
+
+### Day 7 April 22nd 2020
+
+**Today's Progress** Played around with HTML in a web site. Studied a few different website designs. continued with applied accessibility.
